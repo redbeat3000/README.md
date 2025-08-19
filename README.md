@@ -9,7 +9,9 @@
 
 ## 💾 About Me
 
-I'm a first-year BSc Microprocessor Technology and Instrumentation student at the University of Nairobi. I build futuristic software, automate workflows, and explore AI, IoT, and blockchain.
+Hi, I’m **Blessing Hamisi** – a passionate tech explorer and AI enthusiast. I build futuristic software solutions across **AI, cybersecurity, blockchain, Rust, Web3, Embedded Systems, and IoT**. I love automating workflows, developing mobile and web apps, and turning complex ideas into real-world products.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/blessing-hamisi-0847412a4/) to follow my journey and projects.
 
 ---
 
