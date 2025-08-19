@@ -4,7 +4,8 @@
 # 👋 Hi, I'm Blessing N. Hamisi
 
 ## Tech Explorer | Cybersecurity Enthusiast | AI & Web3 Tinkerer | Embedded Engineer & IoT 
-![Profile Views](https://komarev.com/ghpvc/?username=redbeat3000&color=ff69b4&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=redbeat3000&color=ff69b4&style=for-the-badge) ### View map ![Visitor Map](https://github.com/redbeat3000/redbeat3000/blob/output/visitor-map.svg)
+
 
 ---
 
@@ -98,5 +99,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/blessing-hamisi-084741
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=redbeat3000&theme=dark)
+
 
 
