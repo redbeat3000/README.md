@@ -1,7 +1,7 @@
 
 ---
 
-#                         👋 Hi, I'm Blessing N. Hamisi
+# 👋 Hi, I'm Blessing N. Hamisi
 
 ## Tech Explorer | Cybersecurity Enthusiast | AI & Web3 Tinkerer | Embedded Engineer & IoT 
 
@@ -64,7 +64,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/blessing-hamisi-084741
 
 ---
 
-## 🌐 Connect with Me
+## 🔥 Connect with Me
 
 <p>
   <a href="mailto:nyaberihamisi@gmail.com">
