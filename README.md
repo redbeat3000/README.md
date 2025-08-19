@@ -68,7 +68,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/blessing-hamisi-084741
 ## 🔥 Connect with Me
 
 <p>
-  <a href="mailto:nyaberihamisi@gmail.com">
+  <a href="mailto:nyaberihamisi@g.mail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Gmail"/>
   </a>
   <a href="https://github.com/redbeat3000">
@@ -77,13 +77,14 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/blessing-hamisi-084741
   <a href="https://wa.me/0718713565">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" alt="WhatsApp"/>
   </a>
-  <a href="https://instagram.com/yourhandle">
+  <a href="https://instagram.com/redbeat3000">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/blessing-hamisi-0847412a4/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" alt="LinkedIn"/>
   </a>
 </p>
+
 
 ---
 
