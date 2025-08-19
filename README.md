@@ -57,7 +57,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/blessing-hamisi-084741
 
 ---
 
-## 📊 GitHub Stats (Dark Theme)
+## 📊 GitHub Stats
 
 ![Blessing's GitHub Stats](https://github-readme-stats.vercel.app/api?username=redbeat3000\&show_icons=true\&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redbeat3000\&layout=compact\&theme=dark)
