@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Blessing N. Hamisi
 
-**Tech Explorer | Cybersecurity Enthusiast | AI & Web3 Tinkerer | Embedded Engineer & IoT **
+## Tech Explorer | Cybersecurity Enthusiast | AI & Web3 Tinkerer | Embedded Engineer & IoT 
 
 ---
 
