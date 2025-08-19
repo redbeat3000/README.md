@@ -10,3 +10,4 @@ I’m passionate about Web3, cybersecurity, and software development. I love exp
 💻 Software Developer: Whether it’s building scalable applications or automating tasks, I enjoy developing software that solves problems and enhances user experiences.
 
 I’m always excited to collaborate, learn from others, and contribute to open-source projects. Feel free to check out my repos and connect if you're working on something cool!
+![Blessing's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
