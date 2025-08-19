@@ -19,14 +19,70 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/blessing-hamisi-084741
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-90%-blue?style=for-the-badge\&logo=python\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-80%-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-85%-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-70%-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-60%-363636?style=for-the-badge\&logo=ethereum\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-75%-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-70%-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-65%-blue?style=for-the-badge\&logo=mysql\&logoColor=white)
+### 💻 Programming Languages
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+### 🛠️ Tools & Platforms
+
+#### Cloud & AI
+![Oracle Cloud](https://img.shields.io/badge/Oracle-FF8C00?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF8C00?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-FF8C00?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-FF8C00?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FF8C00?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-FF8C00?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-FF8C00?style=for-the-badge&logo=helm&logoColor=white)
+
+#### Cybersecurity
+![Wireshark](https://img.shields.io/badge/Wireshark-FF8C00?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-FF8C00?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-FF8C00?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/BurpSuite-FF8C00?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-FF8C00?style=for-the-badge&logo=splunk&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-FF8C00?style=for-the-badge&logo=owasp&logoColor=white)
+
+#### IoT & Embedded
+![Arduino](https://img.shields.io/badge/Arduino-FF8C00?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-FF8C00?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-FF8C00?style=for-the-badge&logo=esp32&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF8C00?style=for-the-badge&logo=platformio&logoColor=white)
+
+#### Web3 & Blockchain
+![Solana](https://img.shields.io/badge/Solana-FF8C00?style=for-the-badge&logo=solana&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-FF8C00?style=for-the-badge&logo=ethereum&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-FF8C00?style=for-the-badge&logo=metamask&logoColor=white)
+![Truffle](https://img.shields.io/badge/Truffle-FF8C00?style=for-the-badge&logo=truffle&logoColor=white)
+
+#### DevOps & Monitoring
+![Git](https://img.shields.io/badge/Git-FF8C00?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FF8C00?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-FF8C00?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-FF8C00?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-FF8C00?style=for-the-badge&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-FF8C00?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-FF8C00?style=for-the-badge&logo=grafana&logoColor=white)
+
 
 ---
 
