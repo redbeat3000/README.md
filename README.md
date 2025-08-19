@@ -1,4 +1,5 @@
-![Description](Black White Modern Financial Content YouTube Banner.png)
+![Banner](assets/futuristicbanner.png)
+
 
 
 ---
