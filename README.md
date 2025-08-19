@@ -66,7 +66,7 @@ I'm a first-year BSc Microprocessor Technology and Instrumentation student at th
 
 [![Email](https://img.shields.io/badge/✉-nyaberihamisi@g.mail.com-ff69b4?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nyaberihamisi@g.mail.com)
 [![Phone](https://img.shields.io/badge/📞-0718713565-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](tel:0718713565)
-[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/redbeat3000)
+[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/blessing-hamisi-0847412a4/))
 [![GitHub](https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/redbeat3000)
 
 ---
