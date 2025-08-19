@@ -31,29 +31,27 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/blessing-hamisi-084741
 
 ## 🎓 Certifications
 
-## 🎓 Certifications
-
 ### Cloud & AI
-* ![Oracle](https://1000logos.net/wp-content/uploads/2020/09/Oracle-Logo.png) **OCI 2025 Certified AI Foundations Associate** – Aug 2025  
-* ![Oracle](https://1000logos.net/wp-content/uploads/2020/09/Oracle-Logo.png) **OCI 2025 Certified Foundations Associate** – Jul 2025  
-* ![ALX](https://pbs.twimg.com/profile_images/1366888406110038274/Bg4c4wU3_400x400.jpg) **AI Starter Kit** – Jul 2025  
+* ![Oracle](https://img.shields.io/badge/Oracle-Red?style=for-the-badge&logo=oracle&logoColor=white) **OCI 2025 Certified AI Foundations Associate** – Aug 2025  
+* ![Oracle](https://img.shields.io/badge/Oracle-Red?style=for-the-badge&logo=oracle&logoColor=white) **OCI 2025 Certified Foundations Associate** – Jul 2025  
+* ![ALX](https://img.shields.io/badge/ALX-000000?style=for-the-badge) **AI Starter Kit** – Jul 2025  
 
 ### Cybersecurity
-* ![CompTIA](https://upload.wikimedia.org/wikipedia/commons/5/5f/CompTIA_logo.png) **Agile Software Development** – Aug 2025  
-* ![Forage](https://forage.site/static/images/favicon.png) **Cybersecurity Analyst** – Aug 2025  
-* ![IBM](https://1000logos.net/wp-content/uploads/2021/05/IBM-Logo.png) **Cybersecurity Fundamentals** – Jul 2025  
-* ![Cisco](https://1000logos.net/wp-content/uploads/2021/04/Cisco-Logo.png) **Introduction to Cybersecurity** – Jun 2025  
-* ![ISC2](https://upload.wikimedia.org/wikipedia/en/0/0f/ISC2_Logo.png) **ISC2 Candidate** – Mar 2025  
-* ![OPSWAT](https://www.opswat.com/sites/default/files/logo/logo.png) **Critical Infrastructure Protection** – Jul 2025  
+* ![CompTIA](https://img.shields.io/badge/CompTIA-0052B1?style=for-the-badge&logo=comptia&logoColor=white) **Agile Software Development** – Aug 2025  
+* ![Forage](https://img.shields.io/badge/Forage-000000?style=for-the-badge) **Cybersecurity Analyst** – Aug 2025  
+* ![IBM](https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white) **Cybersecurity Fundamentals** – Jul 2025  
+* ![Cisco](https://img.shields.io/badge/Cisco-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white) **Introduction to Cybersecurity** – Jun 2025  
+* ![ISC2](https://img.shields.io/badge/ISC2-0052B1?style=for-the-badge&logo=isc2&logoColor=white) **ISC2 Candidate** – Mar 2025  
+* ![OPSWAT](https://img.shields.io/badge/OPSWAT-0055FF?style=for-the-badge) **Critical Infrastructure Protection** – Jul 2025  
 
 ### DevOps & Software
-* ![CompTIA](https://upload.wikimedia.org/wikipedia/commons/5/5f/CompTIA_logo.png) **Kubernetes: Package Management with Helm** – Aug 2025  
-* ![ALX](https://pbs.twimg.com/profile_images/1366888406110038274/Bg4c4wU3_400x400.jpg) **Professional Development Skills** – Aug 2025  
-* ![IC Academy](https://icacademy.com/wp-content/uploads/2019/03/icacademy-logo.png) **Deployments of Static Websites** – Jan 2025  
+* ![CompTIA](https://img.shields.io/badge/CompTIA-0052B1?style=for-the-badge&logo=comptia&logoColor=white) **Kubernetes: Package Management with Helm** – Aug 2025  
+* ![ALX](https://img.shields.io/badge/ALX-000000?style=for-the-badge) **Professional Development Skills** – Aug 2025  
+* ![IC Academy](https://img.shields.io/badge/ICAcademy-FF6F00?style=for-the-badge) **Deployments of Static Websites** – Jan 2025  
 
 ### Data & SQL
-* ![Sololearn](https://www.sololearn.com/Images/sololearn_logo.png) **Data Analytics with AI** – Jul 2025  
-* ![Sololearn](https://www.sololearn.com/Images/sololearn_logo.png) **SQL (Intro & Intermediate)** – Jul 2025  
+* ![Sololearn](https://img.shields.io/badge/Sololearn-2EC866?style=for-the-badge&logo=sololearn&logoColor=white) **Data Analytics with AI** – Jul 2025  
+* ![Sololearn](https://img.shields.io/badge/Sololearn-2EC866?style=for-the-badge&logo=sololearn&logoColor=white) **SQL (Intro & Intermediate)** – Jul 2025  
 
 
 ---
