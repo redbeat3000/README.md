@@ -46,42 +46,43 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/blessing-hamisi-084741
 ### 🛠️ Tools & Platforms
 
 #### Cloud & AI
-![Oracle Cloud](https://img.shields.io/badge/Oracle-FF8C00?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF8C00?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-FF8C00?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-FF8C00?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FF8C00?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-FF8C00?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-FF8C00?style=for-the-badge&logo=helm&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle-2D2D2D?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-2D2D2D?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-2D2D2D?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-2D2D2D?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2D2D2D?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-2D2D2D?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-2D2D2D?style=for-the-badge&logo=helm&logoColor=white)
 
 #### Cybersecurity
-![Wireshark](https://img.shields.io/badge/Wireshark-FF8C00?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-FF8C00?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-FF8C00?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/BurpSuite-FF8C00?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-FF8C00?style=for-the-badge&logo=splunk&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-FF8C00?style=for-the-badge&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-2D2D2D?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-2D2D2D?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2D2D2D?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/BurpSuite-2D2D2D?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-2D2D2D?style=for-the-badge&logo=splunk&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-2D2D2D?style=for-the-badge&logo=owasp&logoColor=white)
 
 #### IoT & Embedded
-![Arduino](https://img.shields.io/badge/Arduino-FF8C00?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-FF8C00?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-FF8C00?style=for-the-badge&logo=esp32&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FF8C00?style=for-the-badge&logo=platformio&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-2D2D2D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-2D2D2D?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-2D2D2D?style=for-the-badge&logo=esp32&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-2D2D2D?style=for-the-badge&logo=platformio&logoColor=white)
 
 #### Web3 & Blockchain
-![Solana](https://img.shields.io/badge/Solana-FF8C00?style=for-the-badge&logo=solana&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-FF8C00?style=for-the-badge&logo=ethereum&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-FF8C00?style=for-the-badge&logo=metamask&logoColor=white)
-![Truffle](https://img.shields.io/badge/Truffle-FF8C00?style=for-the-badge&logo=truffle&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-2D2D2D?style=for-the-badge&logo=solana&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-2D2D2D?style=for-the-badge&logo=ethereum&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-2D2D2D?style=for-the-badge&logo=metamask&logoColor=white)
+![Truffle](https://img.shields.io/badge/Truffle-2D2D2D?style=for-the-badge&logo=truffle&logoColor=white)
 
 #### DevOps & Monitoring
-![Git](https://img.shields.io/badge/Git-FF8C00?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FF8C00?style=for-the-badge&logo=github&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-FF8C00?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-FF8C00?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-FF8C00?style=for-the-badge&logo=ansible&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-FF8C00?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-FF8C00?style=for-the-badge&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2D2D2D?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2D2D2D?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-2D2D2D?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-2D2D2D?style=for-the-badge&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-2D2D2D?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-2D2D2D?style=for-the-badge&logo=grafana&logoColor=white)
+
 
 
 
