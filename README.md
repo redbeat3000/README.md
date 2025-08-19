@@ -83,6 +83,227 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/blessing-hamisi-084741
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" alt="LinkedIn"/>
   </a>
 </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smiling Cartoon for GitHub</title>
+    <style>
+        body {
+            background-color: #0d1117;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        }
+        
+        .container {
+            text-align: center;
+            padding: 20px;
+            background: #161b22;
+            border-radius: 12px;
+            border: 1px solid #30363d;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+            max-width: 500px;
+        }
+        
+        h1 {
+            color: #58a6ff;
+            margin-bottom: 30px;
+        }
+        
+        .cartoon-container {
+            display: inline-block;
+            position: relative;
+        }
+        
+        .cartoon {
+            width: 200px;
+            height: 200px;
+        }
+        
+        /* Head */
+        .head {
+            fill: #ffdbac;
+            stroke: #30363d;
+            stroke-width: 2;
+        }
+        
+        /* Body */
+        .body {
+            fill: #58a6ff;
+            stroke: #30363d;
+            stroke-width: 2;
+        }
+        
+        /* Eyes */
+        .eye {
+            fill: white;
+            stroke: #30363d;
+            stroke-width: 1.5;
+            animation: blink 4s infinite;
+        }
+        
+        .pupil {
+            fill: #30363d;
+            animation: look-around 8s infinite;
+        }
+        
+        /* Smile */
+        .smile {
+            fill: none;
+            stroke: #30363d;
+            stroke-width: 2;
+            stroke-linecap: round;
+        }
+        
+        /* Blush */
+        .blush {
+            fill: #ff8fa3;
+            opacity: 0.6;
+            animation: pulse 3s infinite;
+        }
+        
+        /* Arms and Legs */
+        .limb {
+            fill: #ffdbac;
+            stroke: #30363d;
+            stroke-width: 2;
+        }
+        
+        /* Animation for the arms */
+        .arm-left {
+            animation: wave-left 3s infinite;
+            transform-origin: top center;
+        }
+        
+        .arm-right {
+            animation: wave-right 3s infinite;
+            transform-origin: top center;
+        }
+        
+        /* Animation for bouncing */
+        .cartoon-container {
+            animation: bounce 5s infinite;
+        }
+        
+        /* Keyframe animations */
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-15px); }
+        }
+        
+        @keyframes wave-left {
+            0%, 100% { transform: rotate(0); }
+            50% { transform: rotate(10deg); }
+        }
+        
+        @keyframes wave-right {
+            0%, 100% { transform: rotate(0); }
+            50% { transform: rotate(-10deg); }
+        }
+        
+        @keyframes blink {
+            0%, 95%, 98%, 100% { transform: scaleY(1); }
+            96%, 97% { transform: scaleY(0.1); }
+        }
+        
+        @keyframes look-around {
+            0%, 90%, 100% { transform: translateX(0); }
+            92% { transform: translateX(3px); }
+            94% { transform: translateX(-3px); }
+            96% { transform: translateX(2px); }
+            98% { transform: translateX(-2px); }
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 0.4; }
+            50% { opacity: 0.8; }
+        }
+        
+        .instructions {
+            color: #c9d1d9;
+            margin-top: 30px;
+            text-align: left;
+            background: #21262d;
+            padding: 15px;
+            border-radius: 6px;
+            font-size: 14px;
+        }
+        
+        .code {
+            background: #0d1117;
+            padding: 12px;
+            border-radius: 6px;
+            margin-top: 10px;
+            overflow-x: auto;
+            color: #c9d1d9;
+            font-family: monospace;
+            font-size: 13px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Smiling Cartoon for GitHub</h1>
+        
+        <div class="cartoon-container">
+            <svg class="cartoon" viewBox="0 0 200 200">
+                <!-- Head -->
+                <ellipse class="head" cx="100" cy="80" rx="60" ry="70" />
+                
+                <!-- Body -->
+                <ellipse class="body" cx="100" cy="190" rx="50" ry="40" />
+                
+                <!-- Eyes -->
+                <circle class="eye" cx="75" cy="70" r="10" />
+                <circle class="eye" cx="125" cy="70" r="10" />
+                
+                <!-- Pupils -->
+                <circle class="pupil" cx="75" cy="70" r="4" />
+                <circle class="pupil" cx="125" cy="70" r="4" />
+                
+                <!-- Smile -->
+                <path class="smile" d="M 70 100 Q 100 120 130 100" />
+                
+                <!-- Blush -->
+                <circle class="blush" cx="60" cy="80" r="12" />
+                <circle class="blush" cx="140" cy="80" r="12" />
+                
+                <!-- Arms -->
+                <rect class="limb arm-left" x="40" y="110" width="15" height="40" rx="5" />
+                <rect class="limb arm-right" x="145" y="110" width="15" height="40" rx="5" />
+                
+                <!-- Legs -->
+                <rect class="limb" x="75" y="180" width="10" height="40" rx="5" />
+                <rect class="limb" x="115" y="180" width="10" height="40" rx="5" />
+            </svg>
+        </div>
+        
+        <div class="instructions">
+            <h3>How to add this to your GitHub profile:</h3>
+            <ol>
+                <li>Create a new repository with the same name as your GitHub username</li>
+                <li>Add a README.md file to this repository</li>
+                <li>Copy the SVG code below and paste it into your README.md</li>
+            </ol>
+            
+            <div class="code">
+                &lt;div align="center"&gt;<br>
+                &nbsp;&nbsp;&lt;svg width="200" height="200" viewBox="0 0 200 200"&gt;<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&lt;!-- SVG code from above --&gt;<br>
+                &nbsp;&nbsp;&lt;/svg&gt;<br>
+                &lt;/div&gt;
+            </div>
+            
+            <p>Note: For GitHub, you'll need to add the CSS animations as inline style attributes to each SVG element.</p>
+        </div>
+    </div>
+</body>
+</html>
 
 
 
