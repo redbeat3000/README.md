@@ -1,7 +1,7 @@
 
 ---
 
-# 👋 Hi, I'm Blessing Nyaberi Hamisi
+# 👋 Hi, I'm Blessing N. Hamisi
 
 **Tech Explorer | Cybersecurity Enthusiast | AI & Web3 Tinkerer | Flutter Dev**
 
