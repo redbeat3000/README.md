@@ -6,6 +6,9 @@
 **Tech Explorer | Cybersecurity Enthusiast | AI & Web3 Tinkerer | Flutter Dev**
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redbeat3000&layout=compact&theme=dark)
+
+---
 
 ## 💾 About Me
 
