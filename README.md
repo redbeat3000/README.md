@@ -68,12 +68,13 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/blessing-hamisi-084741
 
 <p>
 
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="30" />](mailto:nyaberihamisi@gmail.com)  
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="30" />](https://github.com/nyaberihamisi)  
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="30" />](https://wa.me/0718713565)  
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="30" />](https://instagram.com/yourhandle)  
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" width="30" />](https://tiktok.com/@yourhandle)  
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" />](https://linkedin.com/in/nyaberihamisi)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" />](mailto:nyaberihamisi@gmail.com)  
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" />](https://github.com/nyaberihamisi)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="30" />](https://wa.me/0718713565)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" />](https://instagram.com/yourhandle)  
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" width="30" />](https://tiktok.com/@yourhandle)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" />](https://linkedin.com/in/nyaberihamisi)
+
 
 </p>
 
