@@ -8,7 +8,7 @@
 
 ---
 
-## 💾 About Me
+## ⚙️ About Me
 
 Hi, I’m **Blessing Hamisi** – a passionate tech explorer and AI enthusiast. I build futuristic software solutions across **AI, cybersecurity, blockchain, Rust, Web3, Embedded Systems, and IoT**. I love automating workflows, developing mobile and web apps, and turning complex ideas into real-world products.
 
