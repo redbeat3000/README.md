@@ -68,22 +68,19 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/blessing-hamisi-084741
 
 <p>
   <a href="mailto:nyaberihamisi@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" alt="Gmail"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Gmail"/>
   </a>
-  <a href="https://github.com/nyaberihamisi">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="30" alt="GitHub"/>
+  <a href="https://github.com/redbeat3000">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" alt="GitHub"/>
   </a>
   <a href="https://wa.me/0718713565">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="30" alt="WhatsApp"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" alt="WhatsApp"/>
   </a>
   <a href="https://instagram.com/yourhandle">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" alt="Instagram"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" alt="Instagram"/>
   </a>
-  <a href="https://tiktok.com/@yourhandle">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/TikTok_logo.svg" width="30" alt="TikTok"/>
-  </a>
-  <a href="https://linkedin.com/in/nyaberihamisi">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/blessing-hamisi-0847412a4/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" alt="LinkedIn"/>
   </a>
 </p>
 
