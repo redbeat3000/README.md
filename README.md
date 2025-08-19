@@ -1,4 +1,3 @@
-Perfect! I’ve created a **full futuristic dark-themed README** for you with your GitHub username (`redbeat3000`) integrated into all dynamic stats links. All the badges, GitHub stats, and language stats use **dark themes** for a sleek techie look. You can copy-paste this directly:
 
 ---
 
