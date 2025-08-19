@@ -4,6 +4,7 @@
 # 👋 Hi, I'm Blessing N. Hamisi
 
 ## Tech Explorer | Cybersecurity Enthusiast | AI & Web3 Tinkerer | Embedded Engineer & IoT 
+![Profile Views](https://komarev.com/ghpvc/?username=redbeat3000&color=ff69b4&style=for-the-badge)
 
 ---
 
