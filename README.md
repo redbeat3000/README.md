@@ -73,7 +73,6 @@ I'm a first-year BSc Microprocessor Technology and Instrumentation student at th
 ---
 
 
-
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=redbeat3000&theme=dark)
 
 
