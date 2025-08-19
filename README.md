@@ -67,12 +67,14 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/blessing-hamisi-084741
 ## 🌐 Connect with Me
 
 <p>
-  <a href="mailto:nyaberihamisi@gmail.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="60"/></a>
-  <a href="https://github.com/nyaberihamisi"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="60"/></a>
-  <a href="https://wa.me/0718713565"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="60"/></a>
-  <a href="https://instagram.com/yourhandle"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="60"/></a>
-  <a href="https://tiktok.com/@yourhandle"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" width="60"/></a>
-  <a href="https://linkedin.com/in/nyaberihamisi"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="60"/></a>
+
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="30" />](mailto:nyaberihamisi@gmail.com)  
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="30" />](https://github.com/nyaberihamisi)  
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="30" />](https://wa.me/0718713565)  
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="30" />](https://instagram.com/yourhandle)  
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" width="30" />](https://tiktok.com/@yourhandle)  
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" />](https://linkedin.com/in/nyaberihamisi)
+
 </p>
 
 
